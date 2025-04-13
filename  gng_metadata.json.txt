@@ -1,0 +1,6 @@
+{
+  "name": "GNG Coin",
+  "symbol": "GNG",
+  "description": "Good Not Greed — Community Coin for builders & dreamers.",
+  "image": "https://raw.githubusercontent.com/CryptoMillionsLTD/gng-metadata/main/GNG_LOGO.png"
+}
